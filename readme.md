@@ -6,3 +6,7 @@ peggle linux is an arch based distro that comes preinstalled mainly with wine an
 it uses hyprland with windows xp dotifles
 
 https://gitlab.com/cristodcgomez/hyprxp
+
+
+
+theres nothing here because i havent actually done anything yet.
